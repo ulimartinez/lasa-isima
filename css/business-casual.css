@@ -25,6 +25,17 @@ h6 {
     letter-spacing: 1px;
 }
 
+.marker{
+    top: 110px;
+    position: absolute;
+    left: 41.7%;
+}
+.carruselImg .img {
+    width: auto;
+    height: 225px;
+    max-height: 225px;
+}
+
 p {
     font-size: 1.25em;
     line-height: 1.6;
